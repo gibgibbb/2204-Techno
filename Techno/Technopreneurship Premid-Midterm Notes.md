@@ -151,34 +151,34 @@ Can be classified by
 
 1. **Parent/Living Corporation**
 - Own and controls other Corporation
-1. **Subsidiary Corporation**
+2. **Subsidiary Corporation**
 - Corporation controlled by another Corporation
-1. **Affiliated Corporation**
+3. **Affiliated Corporation**
 - Related
 
 Numbers who compose them
 
-2. **Corporation Aggregate**
+1. **Corporation Aggregate**
 - Consisting of more than one member or corporator
-1. **Corporation stockholders**
+2. **Corporation stockholders**
 - A religious corporation which consist of one member
 
 **Components of Corporation**
-2. **Corporator**
+1. **Corporator**
 - compose the corporation
 - subscribe to the shares of the corporation
-3. **Incorporators**
+2. **Incorporators**
 - original/founders
 - corporator who executed and signed the agencies of incorporations
 - not more than 15
-4. **stockholders**
+3. **stockholders**
 - The corporator/owners of share of stock
 - maybe natural or juridical
-5. **Members**
+4. **Members**
 - corporation which has no capital stock
-6. **BOD/Board of Directors/Trustees**
+5. **BOD/Board of Directors/Trustees**
 - Trustees
-7. **Officers**
+6. **Officers**
 - President, Secretary, Treasurer
 
 **Stock**
@@ -601,6 +601,7 @@ These are the books that are required to be kept by the corporation
 
 **Anti-Competitive Agreements**
 **Vertical**: A supplier or producer of certain goods with enter into an agreement with the supplier of the raw materials for that certain goods. Its vertical because it goes up or down the supply chain.
+
 **Horizontal**: Agreements between parties who are similarly situated. A supplier of a certain commodity entering into an agreement with another supplier of the same commodity. 
 
 It can be between competitors or between supplier and producer.
